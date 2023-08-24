@@ -1,8 +1,8 @@
 <h1>
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
-    <span>Estudo de Versionamento de Código com Git e GitHub</span>
-    <span>Estou começando, então decidi apenas reproduzir o projeto !</span>
+    <span>Estou começando, então decidi apenas reproduzir o projeto</span>
+
 </h1>
 
 Repositório desenvolvido para fins educativos, com a disponibilização de materiais de apoio para o curso **Versionamento de Código com Git e GitHub** da [Digital Innovation One](https://www.dio.me/).
